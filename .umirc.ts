@@ -7,5 +7,5 @@ export default defineConfig({
   history: {
     type: 'hash'
   },
-  publicPath: "coderouNote" // 修改publicPath以适配gh-pages的static路径问题
+  publicPath: "/coderouNote/" // 修改publicPath以适配gh-pages的static路径问题
 });
