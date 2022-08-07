@@ -9,6 +9,7 @@
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
+  "homepage": "https://coderou.github.io/coderouNote/",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
