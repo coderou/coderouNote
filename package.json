@@ -3,6 +3,7 @@
   "name": "dumi-app",
   "scripts": {
     "start": "dumi dev",
+    "serve": "dumi dev",
     "build": "dumi build",
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\""
   },
