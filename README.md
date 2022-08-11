@@ -9,6 +9,8 @@ npm install
 npm run start
 ```
 
+本项目通过 gh-pages 进行在线部署,预览地址: <https://coderou.github.io/coderouNote/>
+
 ## 我的掘金文章
 
 - **1.有关 gh-pages 和本网站的部署教程**
